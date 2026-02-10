@@ -1,15 +1,14 @@
 ## Subdomain Enumeration
 
 ### Objective
-Identify publicly exposed subdomains to understand the external attack surface of the target.
+Identify publicly exposed subdomains to understand the external attack surface.
 
-### Methodology
-- Passive discovery using public data sources
-- Active discovery using automated enumeration tools
-- Deduplication and validation of results
+### Tools & Resources
+- **SecurityTrails** – Passive subdomain discovery using historical DNS data
+- **Subdomain Finder (c99.nl)** – Public subdomain lookup
+- **ShrewdEye** – Asset discovery and reconnaissance
+- **subfinder** – Automated subdomain discovery
+- **assetfinder** – Additional passive subdomain enumeration
 
-### Tools Used
-- subfinder
-- assetfinder
-- SecurityTrails
-
+### Notes
+Results are validated and deduplicated to ensure accuracy before further analysis.

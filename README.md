@@ -1,8 +1,7 @@
-# Web Application Security
+# External Attack Surface Enumeration
 
-This repository contains structured notes and practical insights related to web application security testing.
+This repository documents a structured approach to external attack surface discovery and enumeration.
 
-The content focuses on understanding common web vulnerabilities, testing approaches, and security concepts derived from hands-on practice in controlled lab environments.
+The focus is on identifying exposed assets, validating services, and understanding potential security risks through passive and active reconnaissance techniques in authorized and controlled environments.
 
-All information provided here is for educational purposes only.
-
+This content is intended for educational purposes only.
